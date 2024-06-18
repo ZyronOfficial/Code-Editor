@@ -55,11 +55,6 @@ visit [Documentation Site](https://project-sora.github.io/sora-editor-docs/).
 <img src="/images/problem_indicators.jpg" alt="ProblemIndicator" width="40%" align="bottom" />
 </div>
 
-## Discuss
-
-* Official QQ Group:[216632648](https://jq.qq.com/?_wv=1027&k=n68uxQws)
-* Official [Telegram Group](https://t.me/rosemoe_code_editor)
-
 ## License
 
 ```
