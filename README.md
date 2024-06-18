@@ -60,7 +60,6 @@ USA
 Please contact Rosemoe by email 2073412493@qq.com if you need
 additional information or have any questions
 ```
-
 ## Acknowledgements
 
 Thanks to [JetBrains](https://www.jetbrains.com/?from=CodeEditor) for allocating free open-source
